@@ -5,6 +5,7 @@ Car theft is a global issue with substantial social and economic consequences. T
 
 Advanced technologies like Optical Character Recognition (OCR) and computer vision can combat car theft. OCR tools, such as EasyOCR, and motor agency APIs, such as DVLA's, can provide vehicle information like registered colour. A custom car colour detection model using computer vision and machine learning can analyse vehicle images, identify their current colour, and compare it to the registered colour from motor agency databases. The system may flag the vehicle for potential theft or alteration if discrepancies are detected.
 
+
 By incorporating OCR-based plate scanning and a custom car colour detection model, law enforcement can better identify stolen vehicles, address number plate swapping and colour changes, deter thieves and promote compliance with vehicle registration laws.
 # <a name="_bookmark2"></a>Exploratory data analysis
 Exploratory data analysis (EDA) plays a crucial role in data analysis by providing valuable insights, identifying patterns, and facilitating a deeper understanding of a dataset's underlying structure. In the case of the VCoR dataset, which is designed for advanced vehicle colour recognition research and live traffic video localisation, EDA can be particularly significant.
