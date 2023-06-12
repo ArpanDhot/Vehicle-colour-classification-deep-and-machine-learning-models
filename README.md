@@ -1,4 +1,3 @@
-﻿
 # <a name="_bookmark0"></a>Abstract
 Car theft is a global issue with significant social and economic consequences. Thieves use sophisticated tactics, such as number plate swapping and changing vehicle colour, which make it challenging for law enforcement to recover stolen vehicles. This report proposes using advanced technology, specifically a custom car colour classification model, to combat car theft. The model uses computer vision and machine learning to analyse vehicle images, identify their current colour, and compare it to the registered colour from motor agency databases. By incorporating this model, law enforcement can better identify stolen vehicles, address colour changes, and promote compliance with vehicle registration laws. The report provides a comprehensive overview of the issue and demonstrates the efficacy of the custom car colour classification model using Python code snippets and figures. The results suggest that the model can accurately classify car colours, even when the colour has been changed, to avoid detection. The report concludes with recommendations for implementing the custom car colour classification model and future work to improve its accuracy and usability.
 # <a name="_bookmark1"></a>Background and problem to be addressed
@@ -203,12 +202,11 @@ In conclusion, the superior performance of the SVM model in the car colour class
 
 # <a name="_bookmark22"></a>References
 1. Field, S. (n.d.). *CRIME PREVENTION AND THE COSTS OF AUTO THEFT: AN ECONOMIC ANALYSIS*. [online] Available at:
-
 [https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=dd03a9db9e35fdd12af617699f1572c7285580c6.](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=dd03a9db9e35fdd12af617699f1572c7285580c6)
 
 1. Pires, S.F., Schneider, J.L. and Herrera, M. (2015). Organized crime or crime that is organized? The parrot trade in the neotropics. *Trends in Organized Crime*, 19(1), pp.4–20.
 
-2. Felson, M. and Clarke, R. (1998). *Opportunity Makes the Thief Practical theory for crime prevention*. [online] Available at: [https://popcenter.asu.edu/sites/default/files/opportunity_makes_the_thief.pdf.](https://popcenter.asu.edu/sites/default/files/opportunity_makes_the_thief.pdf)
+1. Felson, M. and Clarke, R. (1998). *Opportunity Makes the Thief Practical theory for crime prevention*. [online] Available at: [https://popcenter.asu.edu/sites/default/files/opportunity_makes_the_thief.pdf.](https://popcenter.asu.edu/sites/default/files/opportunity_makes_the_thief.pdf)
 
 1. Become a Problem Solving Crime Analyst In 55 small steps. (n.d.). Available at: [https://popcenter.asu.edu/sites/default/files/library/reading/PDFs/55stepsUK.pdf.](https://popcenter.asu.edu/sites/default/files/library/reading/PDFs/55stepsUK.pdf)
 
@@ -236,5 +234,6 @@ In conclusion, the superior performance of the SVM model in the car colour class
 1. Learning with Kernels. (n.d.). Available at: <https://mcube.lab.nycu.edu.tw/~cfung/docs/books/scholkopf2002learning_with_kernels.pdf>
 
 1. Krizhevsky, A., Sutskever, I. and Hinton, G.E. (2012). ImageNet classification with deep convolutional neural networks. *Communications of the ACM*, 60(6), pp.84–90.
+  
 1. LeCun, Y., Bengio, Y. and Hinton, G. (2015). Deep Learning. *Nature*, [online] 521(7553), pp.436–444. Available at: <https://www.nature.com/articles/nature14539>
 
